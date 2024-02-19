@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-sarif;
+    margin: 0;
+    padding: 0;
+    background: #081b29
+}
+
+header {
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+h1{
+    color:white;
+}
+
+p {
+    color: white;
+    text-align:left;
+    font-size: 1.2em;
+}
+
+a {
+    color:aqua;
+    font-size: 20px;
+}
+
+.Movie h2 {
+    color:white;
+}
+
+.Twitter h3 {
+    color:white;
+    font-size: 30px;
+}
+
+
+
+
+
+
+

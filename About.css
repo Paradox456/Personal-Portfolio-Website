@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #081b29;
+    color: #fff;
+    line-height: 2;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em 0;
+    text-align: left; /* Updated to align text to the left */
+    margin: 0 auto;
+    max-width: 800px; /* Added to limit the header width */
+}
+
+.about p {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: left; /* Updated to align text to the left */
+    padding: 20px;
+    background-color: #081b29;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* Define the keyframes for the sliding animation */
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Apply the animation to the <p> element */
+p {
+    animation: slideIn 1s ease-out; /* Adjust duration and easing as needed */
+}
+
+.about button {
+    border: none;
+    padding: 10px 20px;
+    background-color: aqua;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.about button:hover {
+    background-color: #006666; /* Change color on hover if needed */
+}
+
