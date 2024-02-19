@@ -32,3 +32,5 @@ Clone the Repository:
 - git clone https://github.com/Paradox456/Personal-Portfolio-Website.git
 - Navigate to the Project Directory: cd Personal-Portfolio-Website
 - Open the Home.html File: You can use any web browser to view the website locally.
+
+
