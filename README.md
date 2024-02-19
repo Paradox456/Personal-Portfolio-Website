@@ -1,7 +1,7 @@
 # Personal-Portfolio-Website
 Welcome to my personal portfolio website repository! This website serves as a showcase of my projects, skills, and experiences in web development.
 
-Table of Contents
+Table of Contents:
 Introduction
 Features
 Technologies Used
