@@ -2,10 +2,10 @@
 Welcome to my personal portfolio website repository! This website serves as a showcase of my projects, skills, and experiences in web development.
 
 Table of Contents:
--Introduction
--Features
--Technologies Used
--Getting Started
+- Introduction
+- Features
+- Technologies Used
+- Getting Started
 
 
 Introduction:
